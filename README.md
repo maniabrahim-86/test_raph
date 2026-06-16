@@ -1,4 +1,4 @@
-# TestRaph 
+# TestRaph (Raphael Coquereau)
 
 ## Note
 
