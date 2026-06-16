@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="testRaph.console/testRaph.console.csproj" />
+  <Project Path="testRaph.core/testRaph.core.csproj" />
+  <Project Path="testRaph.test/testRaph.test.csproj" />
+</Solution>
